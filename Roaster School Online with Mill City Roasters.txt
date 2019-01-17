@@ -1,0 +1,11 @@
+1."Turning point"
+
+These affect the turning point:
+	1.Starting charge temp.
+	2."Density of coffee and air" affect the initial charge temperature and turning point. Those can be measured by:
+		-Density check on the coffee,
+		-Barometric pressure within the environment.(that matters for big roasters 70kg+ and is corrected by airflow)
+If after the turning point coffee heats up too quickly you need to lower "the gas". If it's too slow, you need more power.
+
+Summary:
+34:30 https://www.youtube.com/watch?v=mnWNIIpJVQQ
