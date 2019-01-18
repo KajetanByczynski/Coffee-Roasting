@@ -1,4 +1,4 @@
-1."Turning point"
+1."Turning point" (Endothermic part of the roast)
 
 These affect the turning point:
 	1.Starting charge temp.
@@ -11,10 +11,13 @@ Summary:
 34:30 https://www.youtube.com/watch?v=mnWNIIpJVQQ
 
 
-2."Drying/Yellowing" (https://www.youtube.com/watch?v=U0AYlyYUG_Y)
+2."Drying/Yellowing" (water goes down to about 1%-1,5%) (another endothermic part of the roast) 
+(https://www.youtube.com/watch?v=U0AYlyYUG_Y)
 
 Whole process from beginning to the end of Yellowing(usually 4-6min) is preparing coffee to move through the browning stage at the speed that we desire.
 Important: Amount of the time that it takes from green to yellow does not affect the coffe flavour. 
+There is a THEORY though, that going slowly can couse some hydrolysis and create some additional sugars from cellulose molecules. 
+
 However it has a direct impact on the next stages or the roast. 
 
 	Too fast: 
@@ -48,6 +51,83 @@ It's important to balance out getting info from electronic measure and sensory c
 	-further Yellow: bread, pancake, waffles, biscuits, wheat
 
 	That's mainly because of chlorophyll. Aroma of grass gets stronger and then it turns into dry grass aroma.
+
+
+
+3. Browning(Pre-First Crack)/First Crack - Exothermic part of the roast, Development begins
+(https://www.youtube.com/watch?v=fMHLClnf40s)
+
+As browning starts first chemical reactions in the bean start taking place. Generally changing chemical compounds in the coffee into flavours.
+
+Hydrolysis doesn't take place during roasting, only in the living plant.
+
+Maillard's reactions and carmelisation(and other reactions aswell) start taking place right after yellowing (this phase is called browning). They can't take place if there's water in the coffee.
+There is a THEORY that stalling the rosat before first crack can cause some hydrolysis to happen and produce some additional sugars.
+
+Going through these reactions:
+-too fast - you burn the compounds out
+-too slow - you might not break molecules down to small enough ones that result in flavour.
+Finding the optimal speed requires tasting(cupping) and just trying again.
+
+Categories of different aromatic compounds that are being created after browning starts, but BEFORE FIRST CRACK:
+-ketones, 
+-furans(furfuryl), 
+-aldehydes, 
+-esters, 
+-phenalics, 
+-terpenoids, 
+-thiols.
+These are created from big molecules (ATP, Cellulose, etc.).
+
+Look of the profile curve doesn't tell anything about exact taste of coffee. It has to be tasted.
+
+Extending maillard reaction or carmelisation will not produce more and more sweetness.
+At some point sugar molecules will start breaking and there will be less sugars in the end.
+
+Simple carmelisation - dehydration of sugars through the heating effect so as you have your simple sugar and it breaks, gives off:
+C02, H2O and furfuryl(smells sweet, tastes bitter).
+
+First crack occurs due to pressure built up by water(steam) and many new compounds trying to escape the seed.
+At this point we pick up the airflow to get more convection(more effective way of heating coffee).
+
+
+Cupping info: Tasting within a group is the better way to learn.
+
+
+
+4.Post-First Crack(sometimes called "Development")
+(https://www.youtube.com/watch?v=b3FcbOlH8MY)
+
+Pyrolysis, carbonization and dry distillation happen at very high temperatures and to complex molecules, so their impact on coffee roast is pretty small.
+A term for all of them would be charring(PL:zwêglenie).
+
+Charring- getting flavors of burning (like when you make a steak) - bitter, but add more complexity.
+Also a way to get rid of deffective compounds of coffee by turning them into charring flavors.
+
+After first crack:
+-going fast - you can charr the outside of the bean while keeping the flavours you developed in the coffee on the inside. (harder to hit the exact same roast time)
+-going slowly - you can break down unique characteristics of the coffee and get more unilateral flavour. (easier to hit the same roast time)
+
+After first crack the gases that build up in the coffee can gass off very quickly.
+Further into post-first crack - bigger difference in coffee in small amounts of time (reactions speed up).
+
+Second crack- as you approach it the coffee structure starts to decompose and lots of C02 is building up in the bean.
+If little pucks start popping off (called chipping) we're moving too quickly (too violently). Especially too much convective heat will do that.- DEFECT by SCAA
+
+Oil- as you open the seed more and its pores become more open(through degradation of cellulose+swelling of the seed) fat molecules break free from the inside of the bean.
+This oil will go bad very quickly(go rancid). Also dark roast is open to oxygenation very quickly and leaches its CO2 very quickly.
+Dark roast coffee will go stale really fast.
+It's better to go fast so you can avoid the oil.
+
+THEORY: Natural processed coffee may already have some molecules broken down from sitting in the cherry and being affected by its juices.
+As a result when you roast it you're actually further in the roast than you think.
+
+When you start getting deeper into the roast you also start affecting brittleness(PL:kruchoœæ). 
+Barista will have to adjust the grinder setting to fix that issue. So if you're not consistent with brittleness baristas will have to adjust their grinding alot.
+
+General way of roasting for espresso: a little more slow through the first crack and after the first crack.
+It's done to tame down the acidity and bring to light the sweetness a bit more.
+"Making an espresso in like taking magnifying glass and shining acidity through it".
 
 
 
